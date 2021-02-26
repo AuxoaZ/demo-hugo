@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://unkwntechno.netlify.app/"
 title = "UnknwnTechno"
 languageCode = "en"
 hasCJKLanguage = false
