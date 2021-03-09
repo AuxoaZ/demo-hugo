@@ -21,4 +21,5 @@ fields:
   default: []
   label: tags
 pages:
+- content/posts/google-baru-saja-mengumumkan-build-pertama-dari-android-12.md
 - content/posts/unknwn-techno.md
