@@ -4,4 +4,8 @@ tags = ["teknologi"]
 title = "unknwn Techno"
 
 +++
-AKUUUU CINTAAAAA MZ TEGUH 
+AKUUUU CINTAAAAA MZ TEGUH
+
+![](/uploads/434880.jpg)
+
+oke mantab
